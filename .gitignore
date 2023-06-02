@@ -1,6 +1,7 @@
 cmake-build-debug/
 cmake-build-debug-coverage/
 .idea/
+test/
 CMakeLists.txt
 
 # Prerequisites
